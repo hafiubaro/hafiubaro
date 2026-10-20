@@ -19,6 +19,6 @@
 |  10 | 08-10-2025  | 06  | Desain GUI, Navigasi, dan Integrasi API dengan JSON Serialization di Flutter  | [Laporan 10](https://drive.google.com/file/d/1nGFV3xSPlzpIaUxQMgJFKl5NR1AVf6sv/view?usp=drive_link "Laporan 10") | [Program](https://github.com/dwiandina08-oss/tasbih_getx "Template laporan") |
 |  11 | 15-10-2025  | 07  | Manajemen State dengan GetX  | [Laporan 11](https://drive.google.com/file/d/1KUxMV8riA_ODLWYC9tEPxe0ndqrzrrt-/view?usp=drive_link "Laporan 11") | [Program](https://github.com/dwiandina08-oss/tasbih_getx "Template laporan") |
 |  11 | 25-10-2025  | 08  | Ujian Tengah Seemester  | - | [Program](https://github.com/dwiandina08-oss/wisata_app "Template laporan") |
-|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | [Modul 12](https://drive.google.com/file/d/1yuZZlfHzO7k4Zpr8FfuIQrLT2vfEc3A-/view?usp=drive_link "Modul 12") | [Program](https://github.com/dwiandina08-oss/lokasi_flutter "Template laporan") |
-|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | [Modul 13](https://drive.google.com/file/d/1Dx264IRgwQPzcBBb2tF33sEKujytMuCy/view?usp=drive_link "Modul 13") | [Program](https://github.com/dwiandina08-oss/flutter_crud_api "Template laporan") |
-|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | [Modul 13](https://drive.google.com/file/d/1svKbM5HpSksckGown1KL_MsdPSKNVoaZ/view?usp=drive_link "UAS") | [Program](https://github.com/dwiandina08-oss/UAS "Template laporan") |
+|  12 | 05-11-2025  | 09  | Akses Lokasi dengan GPS di Flutter  | - | [Program](https://github.com/dwiandina08-oss/lokasi_flutter "Template laporan") |
+|  13 | 19-11-2025  | 10  | Operasi CRUD (Create, Read, Update, Delete) di Flutter dengan REST API  | - | [Program](https://github.com/dwiandina08-oss/flutter_crud_api "Template laporan") |
+|  14 | 11-12-2025  | 11  | Ujian Akhir Semester  | - | [Program](https://github.com/dwiandina08-oss/UAS "Template laporan") |
