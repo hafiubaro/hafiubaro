@@ -7,7 +7,7 @@
 
 | No  | Tgl  | Praktikum ke  | Topik  | Laporan | Repository |
 | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | 
-|  1 | 04-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | - | [Program](https://github.com/dwiandina08-oss/pengujian "Template laporan") |
+|  1 | 04-09-2025  | 01  | Pengenalan Mobile Programming dan Setup Lingkungan  | - | [Program](https://github.com/hafiubaro/belajar1.git) |
 |  2 | 04-09-2025  | 01  | Widget Row dan Column  | - | [Program](https://github.com/dwiandina08-oss/colomn_row "Template laporan") |
 |  3 | 11-09-2025  | 02  | Pengaturan Layout Row dan Column di Flutter  | - | [Program](https://github.com/dwiandina08-oss/modul3 "Template laporan") |
 |  4 | 11-09-2025  | 02  | Widget Flexible dan Expanded  | - | [Program](https://github.com/dwiandina08-oss/modul4 "Template laporan") |
